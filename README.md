@@ -20,7 +20,7 @@ All images are custom by Alpa D Desai.
 ![image](DataInterpretationTestScores.jpg)
 
 ## Data Interpretation Test Scores
-![image](Average Test Taker.jpg)
+![image](AverageTestTaker.jpg)
 
 ## Business School
 ![image](BusinessSchool.jpg)
