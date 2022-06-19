@@ -22,8 +22,8 @@ All images are custom by Alpa D Desai.
 
 ## Data Interpretation Test Scores
 ![image](AverageTestTaker.jpg)
-## EE Mean Verbal 461, Computer Science Mean Verbal 469
-## EE Mean Quant 728, Computer Science Mean Quant 704
+### EE Mean Verbal 461, Computer Science Mean Verbal 469
+### EE Mean Quant 728, Computer Science Mean Quant 704
 
 ## Business School
 ![image](BusinessSchool.jpg)
