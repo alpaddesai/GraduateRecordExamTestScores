@@ -5,7 +5,7 @@ Confidential information is not displayed. Please download the executable in htt
 All images are custom by Alpa D Desai.
 
 ## GRE
-![image](GRE.jpg)
+![image](GRE_Image.jpg)
 
 ## GRE
 ![image](GREII.jpg)
