@@ -43,7 +43,7 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 
 ## GMAT
 ![image](GMATImage4.jpg)
-### Total number of global test takers 246,957
+### 2008 Total number of GMAT global test takers 246,957
 
 ## GMAT
 ![image](GMATImage5.jpg)
