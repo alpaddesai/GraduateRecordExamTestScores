@@ -4,10 +4,12 @@ C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\bin\Debug\Test Scores.
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test Scores.csproj.AssemblyReference.cache
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test Scores.csproj.SuggestedBindingRedirects.cache
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\MainWindow.g.cs
+C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Window1.g.cs
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\App.g.cs
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test Scores_MarkupCompile.cache
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test Scores_MarkupCompile.lref
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\MainWindow.baml
+C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Window1.baml
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test Scores.g.resources
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test_Scores.Properties.Resources.resources
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Debug\Test Scores.csproj.GenerateResource.cache

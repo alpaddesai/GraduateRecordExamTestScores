@@ -14,3 +14,5 @@ C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Release\Test Score
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Release\Test Scores.csproj.CoreCompileInputs.cache
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Release\Test Scores.exe
 C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Release\Test Scores.pdb
+C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Release\Window1.g.cs
+C:\Users\Alpha Desai\source\repos\Test Scores\Test Scores\obj\Release\Window1.baml
