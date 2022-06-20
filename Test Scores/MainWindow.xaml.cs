@@ -30,5 +30,10 @@ namespace Test_Scores
             Window1 ButtonGMATObject = new Window1();
             ButtonGMATObject.Show();
         }
+
+        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
