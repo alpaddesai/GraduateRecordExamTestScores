@@ -32,4 +32,3 @@ All images are custom by Alpa D Desai.
 ![image](ScoreLevel.jpg)
 
 Additional details reference : https://github.com/alpaddesai/UndergraduateDegree_PowerandInfluentialSkills
-###### source: https://nces.ed.gov/
