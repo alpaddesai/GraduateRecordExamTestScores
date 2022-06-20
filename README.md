@@ -31,4 +31,22 @@ All images are custom by Alpa D Desai.
 ## Score Level
 ![image](ScoreLevel.jpg)
 
+## GMAT 
+![image](GMATImage1.jpg)
+
+## GMAT
+![image](GMATImage2.jpg)
+
+## GMAT
+![image](GMATImage3.jpg)
+
+## GMAT
+![image](GMATImage4.jpg)
+
+## GMAT
+![image](GMATImage5.jpg)
+
+## GMAT
+![image](GMATImage6.jpg)
+
 Additional details reference : https://github.com/alpaddesai/UndergraduateDegree_PowerandInfluentialSkills
