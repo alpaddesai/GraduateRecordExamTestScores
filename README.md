@@ -30,3 +30,5 @@ All images are custom by Alpa D Desai.
 
 ## Score Level
 ![image](ScoreLevel.jpg)
+
+Additional details reference : https://github.com/alpaddesai/UndergraduateDegree_PowerandInfluentialSkills
