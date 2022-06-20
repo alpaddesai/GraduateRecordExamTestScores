@@ -16,9 +16,12 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 
 ## GRE
 ![image](GREV.jpg)
+ #### Mean Verbal 469, Mean Quant is 597
 
 ## GRE
 ![image](GREVI.jpg)
+#### EE Mean Verbal 461, Computer Science Mean Verbal 469
+#### EE Mean Quant 728, Computer Science Mean Quant 704
 
 ## GRE
 ![image](GREVII.jpg)
@@ -43,6 +46,4 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 
 ## GMAT
 ![image](GMATImage6.jpg)
-
-
 
