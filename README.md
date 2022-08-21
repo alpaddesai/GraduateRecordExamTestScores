@@ -9,9 +9,6 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 #### https://www.rolex.com/
 
 ## GRE
-![image](GREIV.jpg)
-
-## GRE
 ![image](GREV.jpg)
  #### Mean Verbal 469, Mean Quant is 597
 
