@@ -9,12 +9,6 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 #### https://www.rolex.com/
 
 ## GRE
-![image](GREII.jpg)
-
-## GRE
-![image](GREIII.jpg)
-
-## GRE
 ![image](GREIV.jpg)
 
 ## GRE
