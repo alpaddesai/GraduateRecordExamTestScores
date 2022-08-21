@@ -23,24 +23,4 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 ## GRE
 ![image](GREVIII.jpg)
 
-#### 2020 Total GMAT global test takers 338,768 Score>700 is 99,101 
-## GMAT
-![image](GMATImage1.jpg)
-
-## GMAT
-![image](GMATImage2.jpg)
-
-## GMAT
-![image](GMATImage3.jpg)
-
-## GMAT
-![image](GMATImage4.jpg)
-### 2008 Total number of GMAT global test takers 246,957
-
-## GMAT
-![image](GMATImage5.jpg)
-
-## GMAT
-![image](GMATImage6.jpg)
-
 Additional details reference :  https://github.com/alpaddesai/RankCertificatesUndergraduateDegree 
