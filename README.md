@@ -6,7 +6,6 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 ![image](GRE_Exam.jpg)
 
 #### 2003 total test takers 571,606
-#### https://www.rolex.com/
 
 ## GRE
 ![image](GREV.jpg)
