@@ -25,10 +25,10 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 ## GMAT
 ![image](GMATImage2.jpg)
 
-## Copyright
-![image](USCopyrightCertificate.png)
-
 ## Patient Database
 ![image](PatientDatabaseInformation.png)
+
+## Copyright
+![image](USCopyrightCertificate.png)
 
 Additional details reference :  https://github.com/alpaddesai/RankCertificatesUndergraduateDegree and https://github.com/alpaddesai/MedicalDevices.
