@@ -25,6 +25,7 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 ## GMAT
 ![image](GMATImage2.jpg)
 
+## Copyright
 ![image](USCopyrightCertificate.png)
 
 ## Patient Database
