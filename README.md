@@ -28,4 +28,7 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 ## Copyright
 ![image](USCopyrightCertificate.png)
 
+## Ethics
+![image](Ethics.jpg)
+
 Additional details reference :  https://github.com/alpaddesai/RankCertificatesUndergraduateDegree and https://github.com/alpaddesai/MedicalDevices.
