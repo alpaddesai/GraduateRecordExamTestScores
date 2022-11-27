@@ -22,9 +22,6 @@ The project provides data interpretation of GRE and GMAT test scores based on my
 ## GRE
 ![image](GREVIII.jpg)
 
-## GMAT
-![image](GMATImage2.jpg)
-
 ## Copyright
 ![image](USCopyrightCertificate.png)
 
