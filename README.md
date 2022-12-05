@@ -28,4 +28,4 @@ The project provides data interpretation of GRE test scores based on my test sco
 ## Ethics
 ![image](Ethics.jpg)
 
-Additional details reference :  https://github.com/alpaddesai/ExecutiveMBAApplication2031
+Additional details reference :  https://github.com/alpaddesai/RealEstatePortfolioIdea2022
