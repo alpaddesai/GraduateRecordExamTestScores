@@ -23,7 +23,6 @@ The project provides data interpretation of GRE test scores based on my test sco
 ![image](GREVIII.jpg)
 
 ## GRE Exam 2018
-![image](GRE_Exam.png)
 
 ## Copyright
 ![image](USCopyrightCertificate.png)
