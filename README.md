@@ -23,7 +23,7 @@ The project provides data interpretation of GRE test scores based on my test sco
 ![image](GREVIII.jpg)
 
 ## GRE Exam 2018
-#### unofficial test score
+### Unofficial quant test score
 ![image](GRE_Exam_2018.png)
 
 ## Copyright
