@@ -26,6 +26,9 @@ The project provides data interpretation of GRE test scores based on my test sco
 ### Unofficial test score
 ![image](GRE_PracticeExam_18_22.png)
 
+## Official exam results 2018
+![image](GREExam.bmp)
+
 ## GRE Practice Exam 2023
 ### Unofficial test score
 ![image](examresults.jpg)
